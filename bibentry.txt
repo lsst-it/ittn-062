@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{ITTN-062,
+   author = { Joshua Hoblitt },
+    title = {Foreman Playbook},
+     year = 2022,
+    month = Jun,
+   handle = {ITTN-062},
+      url = {https://ittn-062.lsst.io } }
